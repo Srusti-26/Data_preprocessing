@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.DS_Store
+.ipynb_checkpoints/
+*.xlsx
+*.xls
+*.zip
+.env
+
+# Ignore processed/cleaned data files
+cleaned*.csv
+processed*.csv
+output*.csv
+*_cleaned.csv
+*_processed.csv
