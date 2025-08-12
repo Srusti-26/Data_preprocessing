@@ -14,7 +14,7 @@ This project contains a reusable data preprocessing pipeline built with Python a
   - Date formatting
 - Scalable design to handle multiple datasets
 ##  Folder Structure
-'''text
+```text
 data_preprocessor/
 ├── pipeline.py # Main cleaning logic
 ├── datasets/
@@ -28,7 +28,7 @@ data_preprocessor/
 │ └── main.py
 ├── README.md
 └── .gitignore
-'''text
+```
 
 ##  Datasets Processed
 
